@@ -1,2 +1,6 @@
-添加修改
-git add test.txt
+stage阶段：
+    添加新增的或者修改过的文件：git add new_file.txt modified_file.txt
+	移除删掉的文件:git rm remove_file.txt
+commit阶段：
+    创建一个新的commit：git commit -m "your description"
+	接着上次的提交：git commit --amend
