@@ -4,3 +4,8 @@ void main()
 	;
 }
 
+void func_1()
+{
+	;
+}
+
