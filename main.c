@@ -8,4 +8,7 @@ void func_1()
 {
 	;
 }
-
+void func_2()
+{
+	;
+}
