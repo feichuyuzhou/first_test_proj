@@ -6,7 +6,7 @@ void main()
 
 void func_1()
 {
-	printf("hello you");
+	printf("hello she");
 }
 void func_2()
 {
