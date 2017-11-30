@@ -8,4 +8,7 @@ void func_1()
 {
 	printf("hello world");
 }
-
+void func_2()
+{
+	;
+}
